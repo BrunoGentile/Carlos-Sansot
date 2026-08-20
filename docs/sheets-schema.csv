@@ -1,0 +1,5 @@
+hoja,columnas
+VIAJES,"id,nombre,destino,categoria,descripcion_corta,descripcion,fecha_salida,fecha_regreso,duracion,noches,precio,moneda,precio_promocional,cupos_totales,cupos_disponibles,estado,transporte,alojamiento,hotel,punto_salida,incluye,no_incluye,imagen_principal,galeria,whatsapp,destacado,promocion,fecha_creacion,fecha_actualizacion"
+RESERVAS,"id_reserva,id_viaje,viaje,fecha_reserva,nombre,apellido,email,telefono,whatsapp,cantidad_pasajeros,precio_unitario,total,estado_reserva,estado_pago,metodo_pago,observaciones"
+CONSULTAS,"id,fecha,nombre,apellido,email,telefono,whatsapp,viaje,tipo_consulta,mensaje,estado"
+CONFIGURACION,"clave,valor"
